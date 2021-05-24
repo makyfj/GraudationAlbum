@@ -1,3 +1,3 @@
 # Quick demo learning Material-UI
 
-Project with material-ui
+Project showcasing graduation photos with material-ui
